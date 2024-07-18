@@ -1,5 +1,5 @@
-import  natplotlib.pyplot as plt 
-import  natplotlib.image as mpimg
-image * mpinmp.imread('asset/image.png')
+import  matplotlib.pyplot as plt 
+import  matplotlib.image as mpimg
+image = mpimg.imread('asset/image1.png')
 plt.imshow(image)
 plt.show()
